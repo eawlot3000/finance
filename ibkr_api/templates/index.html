@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IBKR Account & Portfolio</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: right;
+    }
+    th {
+      background-color: #f4f4f4;
+      cursor: pointer;
+    }
+    .refresh-count {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .negative {
+      color: red;
+    }
+    .positive {
+      color: green;
+    }
+    .neutral {
+      color: black;
+    }
+    .highlight-negative {
+      background-color: rgba(255, 0, 0, 0.2);
+    }
+    .highlight-positive {
+      background-color: rgba(0, 255, 0, 0.2);
+    }
+  </style>
+  <script>
+    let sortOrder = true; // true for ascending, false for descending
+
+    function sortTable(columnIndex, isNumeric) {
+      const table = document.getElementById('portfolioTable');
+      const rows = Array.from(table.rows).slice(1); // Exclude header row
+      rows.sort((a, b) => {
+        const valA = isNumeric ? parseFloat(a.cells[columnIndex].textContent) : a.cells[columnIndex].textContent.toLowerCase();
+        const valB = isNumeric ? parseFloat(b.cells[columnIndex].textContent) : b.cells[columnIndex].textContent.toLowerCase();
+        return sortOrder ? valA - valB || valA.localeCompare(valB) : valB - valA || valB.localeCompare(valA);
+      });
+      sortOrder = !sortOrder;
+      rows.forEach(row => table.appendChild(row));
+    }
+
+    // Auto-refresh the page every 30 seconds
+    setInterval(() => {
+      window.location.reload();
+    }, 30000);
+
+    // Fetch refresh count periodically
+    setInterval(async () => {
+      const response = await fetch('/refresh_count');
+      const data = await response.json();
+      document.getElementById('refreshCount').textContent = `Refresh Count: ${data.refresh_count}`;
+    }, 1000);
+  </script>
+</head>
+<body>
+  <h1>IBKR Account & Portfolio</h1>
+  <div class="refresh-count" id="refreshCount">Refresh Count: 0</div>
+
+  <h2>Account Summary</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Tag</th>
+        <th>Value</th>
+        <th>Currency</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for account, data in account_data.items() %}
+        {% for tag, (value, currency) in data.items() %}
+        <tr>
+          <td>{{ tag }}</td>
+          <td>{{ value }}</td>
+          <td>{{ currency }}</td>
+        </tr>
+        {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Portfolio</h2>
+  <table>
+    <thead>
+      <tr>
+        <th onclick="sortTable(0, false)">Symbol</th>
+        <th onclick="sortTable(1, false)">Sec Type</th>
+        <th onclick="sortTable(2, true)">Position</th>
+        <th onclick="sortTable(3, true)">Market Price</th>
+        <th onclick="sortTable(4, true)">Market Value</th>
+        <th onclick="sortTable(5, true)">Average Cost</th>
+        <th onclick="sortTable(6, true)">Unrealized PnL</th>
+        <th onclick="sortTable(7, true)">Realized PnL</th>
+      </tr>
+    </thead>
+    <tbody id="portfolioTable">
+      <tr>
+        <td colspan="6"><strong>Total</strong></td>
+        <td>{{ total_unrealized_pnl }}</td>
+        <td>{{ total_daily_pnl }}</td>
+      </tr>
+      {% for item in portfolio_data %}
+      <tr>
+        <td class="{% if item.unrealizedPNL < 0 %}highlight-negative{% elif item.unrealizedPNL > 0 %}highlight-positive{% endif %}">
+          {{ item.symbol }}
+        </td>
+        <td>{{ item.secType }}</td>
+        <td class="{% if item.position < 0 %}negative{% elif item.position > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.position }}
+        </td>
+        <td class="{% if item.marketPrice < 0 %}negative{% elif item.marketPrice > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.marketPrice }}
+        </td>
+        <td class="{% if item.marketValue < 0 %}negative{% elif item.marketValue > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.marketValue }}
+        </td>
+        <td class="{% if item.averageCost < 0 %}negative{% elif item.averageCost > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.averageCost }}
+        </td>
+        <td class="{% if item.unrealizedPNL < 0 %}negative{% elif item.unrealizedPNL > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.unrealizedPNL }}
+        </td>
+        <td class="{% if item.realizedPNL < 0 %}negative{% elif item.realizedPNL > 0 %}positive{% else %}neutral{% endif %}">
+          {{ item.realizedPNL }}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>
+
