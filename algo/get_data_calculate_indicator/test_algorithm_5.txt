@@ -1,0 +1,2424 @@
+Signal Counts:
+BUY  : 27070
+SELL : 416
+HOLD : 84444 
+
+============================================================
+Transaction Index: 0
+DataFrame Row Index: 55
+Time: 2023-12-01 10:25:00
+Close Price: 233.9800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=42.62 < 45, ATR_14=0.70 > 0.8*ATR_mean=0.60
+Current Balance (Before Buy): 10000.00
+Current Position (shares): 0.0000
+Bought 42.7387 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 1
+DataFrame Row Index: 828
+Time: 2023-12-05 10:18:00
+Close Price: 241.9700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.06 < 0, RSI=71.08 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.7387
+Sold all shares for 10341.48 USD.
+Trade Profit: 341.48, ROI: 3.41%
+New Balance: 10341.48
+----
+============================================================
+Transaction Index: 2
+DataFrame Row Index: 899
+Time: 2023-12-05 11:29:00
+Close Price: 244.7000
+Signal: BUY
+Reason: Buy: MACD_hist=0.00 > -0.1, RSI=44.17 < 45, ATR_14=0.45 > 0.8*ATR_mean=0.39
+Current Balance (Before Buy): 10341.48
+Current Position (shares): 0.0000
+Bought 42.2619 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 3
+DataFrame Row Index: 3409
+Time: 2023-12-13 14:19:00
+Close Price: 234.3300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=70.33 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2619
+Sold all shares for 9903.23 USD.
+Trade Profit: -438.26, ROI: -4.24%
+New Balance: 9903.23
+----
+============================================================
+Transaction Index: 4
+DataFrame Row Index: 3501
+Time: 2023-12-13 15:51:00
+Close Price: 237.4800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.03 > -0.1, RSI=43.32 < 45, ATR_14=0.53 > 0.8*ATR_mean=0.46
+Current Balance (Before Buy): 9903.23
+Current Position (shares): 0.0000
+Bought 41.7013 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 5
+DataFrame Row Index: 3526
+Time: 2023-12-14 09:46:00
+Close Price: 244.7200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=72.32 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.7013
+Sold all shares for 10205.14 USD.
+Trade Profit: 301.92, ROI: 3.05%
+New Balance: 10205.14
+----
+============================================================
+Transaction Index: 6
+DataFrame Row Index: 3605
+Time: 2023-12-14 11:05:00
+Close Price: 246.8700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=43.67 < 45, ATR_14=0.46 > 0.8*ATR_mean=0.42
+Current Balance (Before Buy): 10205.14
+Current Position (shares): 0.0000
+Bought 41.3381 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 7
+DataFrame Row Index: 6649
+Time: 2023-12-27 09:49:00
+Close Price: 261.9200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=71.10 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.3381
+Sold all shares for 10827.28 USD.
+Trade Profit: 622.14, ROI: 6.10%
+New Balance: 10827.28
+----
+============================================================
+Transaction Index: 8
+DataFrame Row Index: 6700
+Time: 2023-12-27 10:40:00
+Close Price: 261.9300
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=41.80 < 45, ATR_14=0.43 > 0.8*ATR_mean=0.34
+Current Balance (Before Buy): 10827.28
+Current Position (shares): 0.0000
+Bought 41.3366 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 9
+DataFrame Row Index: 7669
+Time: 2023-12-29 13:49:00
+Close Price: 250.9900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.21 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.3366
+Sold all shares for 10375.06 USD.
+Trade Profit: -452.22, ROI: -4.18%
+New Balance: 10375.06
+----
+============================================================
+Transaction Index: 10
+DataFrame Row Index: 7683
+Time: 2023-12-29 14:03:00
+Close Price: 250.4000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=44.41 < 45, ATR_14=0.25 > 0.8*ATR_mean=0.19
+Current Balance (Before Buy): 10375.06
+Current Position (shares): 0.0000
+Bought 41.4339 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 11
+DataFrame Row Index: 9233
+Time: 2024-01-05 13:53:00
+Close Price: 238.9500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.43 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4339
+Sold all shares for 9900.64 USD.
+Trade Profit: -474.42, ROI: -4.57%
+New Balance: 9900.64
+----
+============================================================
+Transaction Index: 12
+DataFrame Row Index: 9255
+Time: 2024-01-05 14:15:00
+Close Price: 238.7200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=43.92 < 45, ATR_14=0.24 > 0.8*ATR_mean=0.18
+Current Balance (Before Buy): 9900.64
+Current Position (shares): 0.0000
+Bought 41.4739 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 13
+DataFrame Row Index: 11357
+Time: 2024-01-16 10:17:00
+Close Price: 221.8600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=73.43 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4739
+Sold all shares for 9201.39 USD.
+Trade Profit: -699.25, ROI: -7.06%
+New Balance: 9201.39
+----
+============================================================
+Transaction Index: 14
+DataFrame Row Index: 11394
+Time: 2024-01-16 10:54:00
+Close Price: 221.3700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.03 > -0.1, RSI=44.91 < 45, ATR_14=0.55 > 0.8*ATR_mean=0.43
+Current Balance (Before Buy): 9201.39
+Current Position (shares): 0.0000
+Bought 41.5657 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 15
+DataFrame Row Index: 12007
+Time: 2024-01-17 14:37:00
+Close Price: 213.9400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.38 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.5657
+Sold all shares for 8892.56 USD.
+Trade Profit: -308.83, ROI: -3.36%
+New Balance: 8892.56
+----
+============================================================
+Transaction Index: 16
+DataFrame Row Index: 12052
+Time: 2024-01-17 15:22:00
+Close Price: 214.4400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=42.84 < 45, ATR_14=0.21 > 0.8*ATR_mean=0.18
+Current Balance (Before Buy): 8892.56
+Current Position (shares): 0.0000
+Bought 41.4688 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 17
+DataFrame Row Index: 13236
+Time: 2024-01-22 15:36:00
+Close Price: 209.4300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=70.19 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4688
+Sold all shares for 8684.80 USD.
+Trade Profit: -207.76, ROI: -2.34%
+New Balance: 8684.80
+----
+============================================================
+Transaction Index: 18
+DataFrame Row Index: 13248
+Time: 2024-01-22 15:48:00
+Close Price: 208.7900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=44.93 < 45, ATR_14=0.26 > 0.8*ATR_mean=0.21
+Current Balance (Before Buy): 8684.80
+Current Position (shares): 0.0000
+Bought 41.5959 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 19
+DataFrame Row Index: 14930
+Time: 2024-01-29 11:20:00
+Close Price: 189.7500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=70.95 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.5959
+Sold all shares for 7892.82 USD.
+Trade Profit: -791.99, ROI: -9.12%
+New Balance: 7892.82
+----
+============================================================
+Transaction Index: 20
+DataFrame Row Index: 14963
+Time: 2024-01-29 11:53:00
+Close Price: 188.8500
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=39.41 < 45, ATR_14=0.30 > 0.8*ATR_mean=0.28
+Current Balance (Before Buy): 7892.82
+Current Position (shares): 0.0000
+Bought 41.7941 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 21
+DataFrame Row Index: 16607
+Time: 2024-02-02 13:17:00
+Close Price: 185.2700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.41 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.7941
+Sold all shares for 7743.19 USD.
+Trade Profit: -149.62, ROI: -1.90%
+New Balance: 7743.19
+----
+============================================================
+Transaction Index: 22
+DataFrame Row Index: 16702
+Time: 2024-02-02 14:52:00
+Close Price: 187.2600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=40.59 < 45, ATR_14=0.30 > 0.8*ATR_mean=0.24
+Current Balance (Before Buy): 7743.19
+Current Position (shares): 0.0000
+Bought 41.3500 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 23
+DataFrame Row Index: 18355
+Time: 2024-02-09 09:55:00
+Close Price: 193.9400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.08 < 0, RSI=70.03 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.3500
+Sold all shares for 8019.41 USD.
+Trade Profit: 276.22, ROI: 3.57%
+New Balance: 8019.41
+----
+============================================================
+Transaction Index: 24
+DataFrame Row Index: 18394
+Time: 2024-02-09 10:34:00
+Close Price: 192.9400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=44.60 < 45, ATR_14=0.36 > 0.8*ATR_mean=0.32
+Current Balance (Before Buy): 8019.41
+Current Position (shares): 0.0000
+Bought 41.5643 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 25
+DataFrame Row Index: 19907
+Time: 2024-02-15 09:47:00
+Close Price: 193.3000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.23 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.5643
+Sold all shares for 8034.37 USD.
+Trade Profit: 14.96, ROI: 0.19%
+New Balance: 8034.37
+----
+============================================================
+Transaction Index: 26
+DataFrame Row Index: 19974
+Time: 2024-02-15 10:54:00
+Close Price: 193.6200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.03 > -0.1, RSI=40.86 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 8034.37
+Current Position (shares): 0.0000
+Bought 41.4956 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 27
+DataFrame Row Index: 20138
+Time: 2024-02-15 13:38:00
+Close Price: 198.4300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=71.26 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4956
+Sold all shares for 8233.97 USD.
+Trade Profit: 199.59, ROI: 2.48%
+New Balance: 8233.97
+----
+============================================================
+Transaction Index: 28
+DataFrame Row Index: 20154
+Time: 2024-02-15 13:54:00
+Close Price: 197.5800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=42.76 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.23
+Current Balance (Before Buy): 8233.97
+Current Position (shares): 0.0000
+Bought 41.6741 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 29
+DataFrame Row Index: 21094
+Time: 2024-02-21 10:04:00
+Close Price: 198.9600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=71.18 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.6741
+Sold all shares for 8291.48 USD.
+Trade Profit: 57.51, ROI: 0.70%
+New Balance: 8291.48
+----
+============================================================
+Transaction Index: 30
+DataFrame Row Index: 21121
+Time: 2024-02-21 10:31:00
+Close Price: 196.2600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=37.18 < 45, ATR_14=0.52 > 0.8*ATR_mean=0.47
+Current Balance (Before Buy): 8291.48
+Current Position (shares): 0.0000
+Bought 42.2474 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 31
+DataFrame Row Index: 23974
+Time: 2024-03-01 12:34:00
+Close Price: 202.7100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=73.86 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2474
+Sold all shares for 8563.97 USD.
+Trade Profit: 272.50, ROI: 3.29%
+New Balance: 8563.97
+----
+============================================================
+Transaction Index: 32
+DataFrame Row Index: 24050
+Time: 2024-03-01 13:50:00
+Close Price: 203.8600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=43.35 < 45, ATR_14=0.21 > 0.8*ATR_mean=0.17
+Current Balance (Before Buy): 8563.97
+Current Position (shares): 0.0000
+Bought 42.0091 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 33
+DataFrame Row Index: 24506
+Time: 2024-03-04 14:56:00
+Close Price: 188.8800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.63 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0091
+Sold all shares for 7934.68 USD.
+Trade Profit: -629.30, ROI: -7.35%
+New Balance: 7934.68
+----
+============================================================
+Transaction Index: 34
+DataFrame Row Index: 24552
+Time: 2024-03-04 15:42:00
+Close Price: 188.9700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=41.92 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.23
+Current Balance (Before Buy): 7934.68
+Current Position (shares): 0.0000
+Bought 41.9891 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 35
+DataFrame Row Index: 26161
+Time: 2024-03-11 10:01:00
+Close Price: 182.1000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=71.33 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.9891
+Sold all shares for 7646.21 USD.
+Trade Profit: -288.47, ROI: -3.64%
+New Balance: 7646.21
+----
+============================================================
+Transaction Index: 36
+DataFrame Row Index: 26191
+Time: 2024-03-11 10:31:00
+Close Price: 179.7900
+Signal: BUY
+Reason: Buy: MACD_hist=0.01 > -0.1, RSI=44.77 < 45, ATR_14=0.54 > 0.8*ATR_mean=0.47
+Current Balance (Before Buy): 7646.21
+Current Position (shares): 0.0000
+Bought 42.5286 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 37
+DataFrame Row Index: 26617
+Time: 2024-03-12 11:07:00
+Close Price: 177.5600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=74.28 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5286
+Sold all shares for 7551.37 USD.
+Trade Profit: -94.84, ROI: -1.24%
+New Balance: 7551.37
+----
+============================================================
+Transaction Index: 38
+DataFrame Row Index: 26659
+Time: 2024-03-12 11:49:00
+Close Price: 177.1600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=39.13 < 45, ATR_14=0.30 > 0.8*ATR_mean=0.25
+Current Balance (Before Buy): 7551.37
+Current Position (shares): 0.0000
+Bought 42.6246 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 39
+DataFrame Row Index: 28149
+Time: 2024-03-18 10:39:00
+Close Price: 171.7500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=73.70 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.6246
+Sold all shares for 7320.77 USD.
+Trade Profit: -230.60, ROI: -3.05%
+New Balance: 7320.77
+----
+============================================================
+Transaction Index: 40
+DataFrame Row Index: 28209
+Time: 2024-03-18 11:39:00
+Close Price: 173.4800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.25 < 45, ATR_14=0.34 > 0.8*ATR_mean=0.31
+Current Balance (Before Buy): 7320.77
+Current Position (shares): 0.0000
+Bought 42.1995 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 41
+DataFrame Row Index: 28960
+Time: 2024-03-20 11:10:00
+Close Price: 173.3400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.86 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.1995
+Sold all shares for 7314.87 USD.
+Trade Profit: -5.91, ROI: -0.08%
+New Balance: 7314.87
+----
+============================================================
+Transaction Index: 42
+DataFrame Row Index: 28971
+Time: 2024-03-20 11:21:00
+Close Price: 172.7800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=43.28 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.21
+Current Balance (Before Buy): 7314.87
+Current Position (shares): 0.0000
+Bought 42.3363 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 43
+DataFrame Row Index: 30438
+Time: 2024-03-26 09:48:00
+Close Price: 181.8200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.06 < 0, RSI=71.14 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.3363
+Sold all shares for 7697.59 USD.
+Trade Profit: 382.72, ROI: 5.23%
+New Balance: 7697.59
+----
+============================================================
+Transaction Index: 44
+DataFrame Row Index: 30525
+Time: 2024-03-26 11:15:00
+Close Price: 182.4300
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=40.92 < 45, ATR_14=0.33 > 0.8*ATR_mean=0.27
+Current Balance (Before Buy): 7697.59
+Current Position (shares): 0.0000
+Bought 42.1947 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 45
+DataFrame Row Index: 32916
+Time: 2024-04-04 12:06:00
+Close Price: 175.4100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=75.06 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.1947
+Sold all shares for 7401.38 USD.
+Trade Profit: -296.21, ROI: -3.85%
+New Balance: 7401.38
+----
+============================================================
+Transaction Index: 46
+DataFrame Row Index: 32982
+Time: 2024-04-04 13:12:00
+Close Price: 175.9900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=42.89 < 45, ATR_14=0.26 > 0.8*ATR_mean=0.22
+Current Balance (Before Buy): 7401.38
+Current Position (shares): 0.0000
+Bought 42.0557 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 47
+DataFrame Row Index: 33562
+Time: 2024-04-08 09:52:00
+Close Price: 172.3100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.08 < 0, RSI=71.95 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0557
+Sold all shares for 7246.62 USD.
+Trade Profit: -154.76, ROI: -2.09%
+New Balance: 7246.62
+----
+============================================================
+Transaction Index: 48
+DataFrame Row Index: 33670
+Time: 2024-04-08 11:40:00
+Close Price: 173.1900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=43.01 < 45, ATR_14=0.30 > 0.8*ATR_mean=0.25
+Current Balance (Before Buy): 7246.62
+Current Position (shares): 0.0000
+Bought 41.8420 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 49
+DataFrame Row Index: 33982
+Time: 2024-04-09 10:22:00
+Close Price: 179.1400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.07 < 0, RSI=73.54 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8420
+Sold all shares for 7495.57 USD.
+Trade Profit: 248.96, ROI: 3.44%
+New Balance: 7495.57
+----
+============================================================
+Transaction Index: 50
+DataFrame Row Index: 34002
+Time: 2024-04-09 10:42:00
+Close Price: 176.9200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=44.57 < 45, ATR_14=0.52 > 0.8*ATR_mean=0.44
+Current Balance (Before Buy): 7495.57
+Current Position (shares): 0.0000
+Bought 42.3670 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 51
+DataFrame Row Index: 38235
+Time: 2024-04-24 09:45:00
+Close Price: 160.8000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.20 < 0, RSI=70.24 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.3670
+Sold all shares for 6812.62 USD.
+Trade Profit: -682.96, ROI: -9.11%
+New Balance: 6812.62
+----
+============================================================
+Transaction Index: 52
+DataFrame Row Index: 38295
+Time: 2024-04-24 10:45:00
+Close Price: 162.6500
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=39.87 < 45, ATR_14=0.58 > 0.8*ATR_mean=0.53
+Current Balance (Before Buy): 6812.62
+Current Position (shares): 0.0000
+Bought 41.8851 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 53
+DataFrame Row Index: 38471
+Time: 2024-04-24 13:41:00
+Close Price: 161.4800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=71.17 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8851
+Sold all shares for 6763.61 USD.
+Trade Profit: -49.01, ROI: -0.72%
+New Balance: 6763.61
+----
+============================================================
+Transaction Index: 54
+DataFrame Row Index: 38504
+Time: 2024-04-24 14:14:00
+Close Price: 161.1200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=44.72 < 45, ATR_14=0.24 > 0.8*ATR_mean=0.21
+Current Balance (Before Buy): 6763.61
+Current Position (shares): 0.0000
+Bought 41.9787 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 55
+DataFrame Row Index: 39403
+Time: 2024-04-29 09:43:00
+Close Price: 186.7700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=72.24 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.9787
+Sold all shares for 7840.37 USD.
+Trade Profit: 1076.75, ROI: 15.92%
+New Balance: 7840.37
+----
+============================================================
+Transaction Index: 56
+DataFrame Row Index: 39588
+Time: 2024-04-29 12:48:00
+Close Price: 195.2700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=40.14 < 45, ATR_14=0.65 > 0.8*ATR_mean=0.55
+Current Balance (Before Buy): 7840.37
+Current Position (shares): 0.0000
+Bought 40.1514 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 57
+DataFrame Row Index: 41358
+Time: 2024-05-06 09:48:00
+Close Price: 186.8400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=74.48 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.1514
+Sold all shares for 7501.89 USD.
+Trade Profit: -338.48, ROI: -4.32%
+New Balance: 7501.89
+----
+============================================================
+Transaction Index: 58
+DataFrame Row Index: 41391
+Time: 2024-05-06 10:21:00
+Close Price: 184.7800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=36.74 < 45, ATR_14=0.52 > 0.8*ATR_mean=0.50
+Current Balance (Before Buy): 7501.89
+Current Position (shares): 0.0000
+Bought 40.5990 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 59
+DataFrame Row Index: 43318
+Time: 2024-05-13 09:58:00
+Close Price: 174.7800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=76.14 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.5990
+Sold all shares for 7095.90 USD.
+Trade Profit: -405.99, ROI: -5.41%
+New Balance: 7095.90
+----
+============================================================
+Transaction Index: 60
+DataFrame Row Index: 43355
+Time: 2024-05-13 10:35:00
+Close Price: 173.8600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=44.77 < 45, ATR_14=0.35 > 0.8*ATR_mean=0.28
+Current Balance (Before Buy): 7095.90
+Current Position (shares): 0.0000
+Bought 40.8139 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 61
+DataFrame Row Index: 43695
+Time: 2024-05-14 09:45:00
+Close Price: 177.1100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.07 < 0, RSI=70.71 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.8139
+Sold all shares for 7228.55 USD.
+Trade Profit: 132.65, ROI: 1.87%
+New Balance: 7228.55
+----
+============================================================
+Transaction Index: 62
+DataFrame Row Index: 43724
+Time: 2024-05-14 10:14:00
+Close Price: 175.0900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=43.28 < 45, ATR_14=0.44 > 0.8*ATR_mean=0.38
+Current Balance (Before Buy): 7228.55
+Current Position (shares): 0.0000
+Bought 41.2847 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 63
+DataFrame Row Index: 43778
+Time: 2024-05-14 11:08:00
+Close Price: 178.4200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=70.96 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.2847
+Sold all shares for 7366.02 USD.
+Trade Profit: 137.48, ROI: 1.90%
+New Balance: 7366.02
+----
+============================================================
+Transaction Index: 64
+DataFrame Row Index: 43815
+Time: 2024-05-14 11:45:00
+Close Price: 178.0600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=41.35 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.24
+Current Balance (Before Buy): 7366.02
+Current Position (shares): 0.0000
+Bought 41.3682 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 65
+DataFrame Row Index: 44922
+Time: 2024-05-17 10:42:00
+Close Price: 177.4700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=75.50 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.3682
+Sold all shares for 7341.62 USD.
+Trade Profit: -24.41, ROI: -0.33%
+New Balance: 7341.62
+----
+============================================================
+Transaction Index: 66
+DataFrame Row Index: 45040
+Time: 2024-05-17 12:40:00
+Close Price: 178.7900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=36.77 < 45, ATR_14=0.18 > 0.8*ATR_mean=0.16
+Current Balance (Before Buy): 7341.62
+Current Position (shares): 0.0000
+Bought 41.0628 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 67
+DataFrame Row Index: 45649
+Time: 2024-05-21 09:49:00
+Close Price: 178.8400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=70.62 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.0628
+Sold all shares for 7343.67 USD.
+Trade Profit: 2.05, ROI: 0.03%
+New Balance: 7343.67
+----
+============================================================
+Transaction Index: 68
+DataFrame Row Index: 45706
+Time: 2024-05-21 10:46:00
+Close Price: 178.1000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.01 > -0.1, RSI=42.79 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.22
+Current Balance (Before Buy): 7343.67
+Current Position (shares): 0.0000
+Bought 41.2334 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 69
+DataFrame Row Index: 45796
+Time: 2024-05-21 12:16:00
+Close Price: 181.9500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=73.93 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.2334
+Sold all shares for 7502.42 USD.
+Trade Profit: 158.75, ROI: 2.16%
+New Balance: 7502.42
+----
+============================================================
+Transaction Index: 70
+DataFrame Row Index: 45826
+Time: 2024-05-21 12:46:00
+Close Price: 180.9500
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=39.36 < 45, ATR_14=0.32 > 0.8*ATR_mean=0.29
+Current Balance (Before Buy): 7502.42
+Current Position (shares): 0.0000
+Bought 41.4613 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 71
+DataFrame Row Index: 45891
+Time: 2024-05-21 13:51:00
+Close Price: 183.3500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=71.36 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4613
+Sold all shares for 7601.93 USD.
+Trade Profit: 99.51, ROI: 1.33%
+New Balance: 7601.93
+----
+============================================================
+Transaction Index: 72
+DataFrame Row Index: 45969
+Time: 2024-05-21 15:09:00
+Close Price: 185.3200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=44.48 < 45, ATR_14=0.31 > 0.8*ATR_mean=0.27
+Current Balance (Before Buy): 7601.93
+Current Position (shares): 0.0000
+Bought 41.0205 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 73
+DataFrame Row Index: 46906
+Time: 2024-05-24 11:16:00
+Close Price: 178.9700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.49 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.0205
+Sold all shares for 7341.44 USD.
+Trade Profit: -260.48, ROI: -3.43%
+New Balance: 7341.44
+----
+============================================================
+Transaction Index: 74
+DataFrame Row Index: 46926
+Time: 2024-05-24 11:36:00
+Close Price: 178.4400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=41.83 < 45, ATR_14=0.25 > 0.8*ATR_mean=0.19
+Current Balance (Before Buy): 7341.44
+Current Position (shares): 0.0000
+Bought 41.1424 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 75
+DataFrame Row Index: 48004
+Time: 2024-05-30 10:04:00
+Close Price: 181.5500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.86 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.1424
+Sold all shares for 7469.40 USD.
+Trade Profit: 127.95, ROI: 1.74%
+New Balance: 7469.40
+----
+============================================================
+Transaction Index: 76
+DataFrame Row Index: 48051
+Time: 2024-05-30 10:51:00
+Close Price: 177.6800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=21.86 < 45, ATR_14=0.38 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 7469.40
+Current Position (shares): 0.0000
+Bought 42.0385 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 77
+DataFrame Row Index: 48767
+Time: 2024-06-03 09:47:00
+Close Price: 181.9600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.08 < 0, RSI=70.80 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0385
+Sold all shares for 7649.32 USD.
+Trade Profit: 179.92, ROI: 2.41%
+New Balance: 7649.32
+----
+============================================================
+Transaction Index: 78
+DataFrame Row Index: 48800
+Time: 2024-06-03 10:20:00
+Close Price: 179.7600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=44.02 < 45, ATR_14=0.68 > 0.8*ATR_mean=0.56
+Current Balance (Before Buy): 7649.32
+Current Position (shares): 0.0000
+Bought 42.5530 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 79
+DataFrame Row Index: 49448
+Time: 2024-06-04 14:38:00
+Close Price: 176.9600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.46 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5530
+Sold all shares for 7530.17 USD.
+Trade Profit: -119.15, ROI: -1.56%
+New Balance: 7530.17
+----
+============================================================
+Transaction Index: 80
+DataFrame Row Index: 49480
+Time: 2024-06-04 15:10:00
+Close Price: 175.8600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=30.38 < 45, ATR_14=0.24 > 0.8*ATR_mean=0.19
+Current Balance (Before Buy): 7530.17
+Current Position (shares): 0.0000
+Bought 42.8191 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 81
+DataFrame Row Index: 50125
+Time: 2024-06-06 12:55:00
+Close Price: 177.4300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.97 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.8191
+Sold all shares for 7597.40 USD.
+Trade Profit: 67.23, ROI: 0.89%
+New Balance: 7597.40
+----
+============================================================
+Transaction Index: 82
+DataFrame Row Index: 50204
+Time: 2024-06-06 14:14:00
+Close Price: 178.6600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=43.87 < 45, ATR_14=0.28 > 0.8*ATR_mean=0.22
+Current Balance (Before Buy): 7597.40
+Current Position (shares): 0.0000
+Bought 42.5243 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 83
+DataFrame Row Index: 51888
+Time: 2024-06-13 09:48:00
+Close Price: 188.9300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.18 < 0, RSI=70.45 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5243
+Sold all shares for 8034.13 USD.
+Trade Profit: 436.73, ROI: 5.75%
+New Balance: 8034.13
+----
+============================================================
+Transaction Index: 84
+DataFrame Row Index: 51930
+Time: 2024-06-13 10:30:00
+Close Price: 184.9400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=38.49 < 45, ATR_14=0.95 > 0.8*ATR_mean=0.68
+Current Balance (Before Buy): 8034.13
+Current Position (shares): 0.0000
+Bought 43.4418 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 85
+DataFrame Row Index: 52728
+Time: 2024-06-17 10:48:00
+Close Price: 184.8800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=70.22 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.4418
+Sold all shares for 8031.52 USD.
+Trade Profit: -2.61, ROI: -0.03%
+New Balance: 8031.52
+----
+============================================================
+Transaction Index: 86
+DataFrame Row Index: 52788
+Time: 2024-06-17 11:48:00
+Close Price: 185.4100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=41.71 < 45, ATR_14=0.41 > 0.8*ATR_mean=0.28
+Current Balance (Before Buy): 8031.52
+Current Position (shares): 0.0000
+Bought 43.3176 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 87
+DataFrame Row Index: 52923
+Time: 2024-06-17 14:03:00
+Close Price: 188.6000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=74.43 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.3176
+Sold all shares for 8169.70 USD.
+Trade Profit: 138.18, ROI: 1.72%
+New Balance: 8169.70
+----
+============================================================
+Transaction Index: 88
+DataFrame Row Index: 52934
+Time: 2024-06-17 14:14:00
+Close Price: 188.1400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.96 < 45, ATR_14=0.27 > 0.8*ATR_mean=0.21
+Current Balance (Before Buy): 8169.70
+Current Position (shares): 0.0000
+Bought 43.4235 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 89
+DataFrame Row Index: 54226
+Time: 2024-06-24 09:46:00
+Close Price: 187.9000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=71.96 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.4235
+Sold all shares for 8159.28 USD.
+Trade Profit: -10.42, ROI: -0.13%
+New Balance: 8159.28
+----
+============================================================
+Transaction Index: 90
+DataFrame Row Index: 54262
+Time: 2024-06-24 10:22:00
+Close Price: 185.4700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=37.60 < 45, ATR_14=0.54 > 0.8*ATR_mean=0.51
+Current Balance (Before Buy): 8159.28
+Current Position (shares): 0.0000
+Bought 43.9925 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 91
+DataFrame Row Index: 54907
+Time: 2024-06-25 14:37:00
+Close Price: 186.8400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.42 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.9925
+Sold all shares for 8219.55 USD.
+Trade Profit: 60.27, ROI: 0.74%
+New Balance: 8219.55
+----
+============================================================
+Transaction Index: 92
+DataFrame Row Index: 54918
+Time: 2024-06-25 14:48:00
+Close Price: 186.3900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=41.80 < 45, ATR_14=0.17 > 0.8*ATR_mean=0.12
+Current Balance (Before Buy): 8219.55
+Current Position (shares): 0.0000
+Bought 44.0987 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 93
+DataFrame Row Index: 56191
+Time: 2024-07-01 10:01:00
+Close Price: 208.7400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=73.88 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 44.0987
+Sold all shares for 9205.15 USD.
+Trade Profit: 985.61, ROI: 11.99%
+New Balance: 9205.15
+----
+============================================================
+Transaction Index: 94
+DataFrame Row Index: 56272
+Time: 2024-07-01 11:22:00
+Close Price: 208.9600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=44.15 < 45, ATR_14=0.60 > 0.8*ATR_mean=0.50
+Current Balance (Before Buy): 9205.15
+Current Position (shares): 0.0000
+Bought 44.0522 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 95
+DataFrame Row Index: 56448
+Time: 2024-07-01 14:18:00
+Close Price: 212.9800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=70.56 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 44.0522
+Sold all shares for 9382.24 USD.
+Trade Profit: 177.09, ROI: 1.92%
+New Balance: 9382.24
+----
+============================================================
+Transaction Index: 96
+DataFrame Row Index: 56469
+Time: 2024-07-01 14:39:00
+Close Price: 212.0900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.91 < 45, ATR_14=0.54 > 0.8*ATR_mean=0.54
+Current Balance (Before Buy): 9382.24
+Current Position (shares): 0.0000
+Bought 44.2371 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 97
+DataFrame Row Index: 56568
+Time: 2024-07-02 09:48:00
+Close Price: 222.6100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.44 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 44.2371
+Sold all shares for 9847.62 USD.
+Trade Profit: 465.37, ROI: 4.96%
+New Balance: 9847.62
+----
+============================================================
+Transaction Index: 98
+DataFrame Row Index: 56650
+Time: 2024-07-02 11:10:00
+Close Price: 227.5300
+Signal: BUY
+Reason: Buy: MACD_hist=0.00 > -0.1, RSI=42.07 < 45, ATR_14=0.63 > 0.8*ATR_mean=0.52
+Current Balance (Before Buy): 9847.62
+Current Position (shares): 0.0000
+Bought 43.2805 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 99
+DataFrame Row Index: 56955
+Time: 2024-07-03 09:45:00
+Close Price: 239.0000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=79.11 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.2805
+Sold all shares for 10344.05 USD.
+Trade Profit: 496.43, ROI: 5.04%
+New Balance: 10344.05
+----
+============================================================
+Transaction Index: 100
+DataFrame Row Index: 57042
+Time: 2024-07-03 11:12:00
+Close Price: 243.0600
+Signal: BUY
+Reason: Buy: MACD_hist=0.06 > -0.1, RSI=43.98 < 45, ATR_14=0.83 > 0.8*ATR_mean=0.68
+Current Balance (Before Buy): 10344.05
+Current Position (shares): 0.0000
+Bought 42.5576 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 101
+DataFrame Row Index: 59712
+Time: 2024-07-15 10:12:00
+Close Price: 263.5500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.17 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5576
+Sold all shares for 11216.05 USD.
+Trade Profit: 872.00, ROI: 8.43%
+New Balance: 11216.05
+----
+============================================================
+Transaction Index: 102
+DataFrame Row Index: 59759
+Time: 2024-07-15 10:59:00
+Close Price: 262.5900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=43.59 < 45, ATR_14=1.17 > 0.8*ATR_mean=1.16
+Current Balance (Before Buy): 11216.05
+Current Position (shares): 0.0000
+Bought 42.7132 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 103
+DataFrame Row Index: 63328
+Time: 2024-07-26 11:58:00
+Close Price: 218.7800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.31 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.7132
+Sold all shares for 9344.79 USD.
+Trade Profit: -1871.26, ROI: -16.68%
+New Balance: 9344.79
+----
+============================================================
+Transaction Index: 104
+DataFrame Row Index: 63424
+Time: 2024-07-26 13:34:00
+Close Price: 221.0600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=40.37 < 45, ATR_14=0.36 > 0.8*ATR_mean=0.27
+Current Balance (Before Buy): 9344.79
+Current Position (shares): 0.0000
+Bought 42.2726 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 105
+DataFrame Row Index: 63584
+Time: 2024-07-29 09:44:00
+Close Price: 228.6700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=73.25 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2726
+Sold all shares for 9666.48 USD.
+Trade Profit: 321.69, ROI: 3.44%
+New Balance: 9666.48
+----
+============================================================
+Transaction Index: 106
+DataFrame Row Index: 63680
+Time: 2024-07-29 11:20:00
+Close Price: 228.9100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=30.98 < 45, ATR_14=0.60 > 0.8*ATR_mean=0.48
+Current Balance (Before Buy): 9666.48
+Current Position (shares): 0.0000
+Bought 42.2283 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 107
+DataFrame Row Index: 64363
+Time: 2024-07-31 09:43:00
+Close Price: 230.0100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=72.32 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2283
+Sold all shares for 9712.93 USD.
+Trade Profit: 46.45, ROI: 0.48%
+New Balance: 9712.93
+----
+============================================================
+Transaction Index: 108
+DataFrame Row Index: 64412
+Time: 2024-07-31 10:32:00
+Close Price: 230.8600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=40.80 < 45, ATR_14=0.63 > 0.8*ATR_mean=0.57
+Current Balance (Before Buy): 9712.93
+Current Position (shares): 0.0000
+Bought 42.0728 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 109
+DataFrame Row Index: 64682
+Time: 2024-07-31 15:02:00
+Close Price: 233.2800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=71.56 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0728
+Sold all shares for 9814.75 USD.
+Trade Profit: 101.82, ROI: 1.05%
+New Balance: 9814.75
+----
+============================================================
+Transaction Index: 110
+DataFrame Row Index: 64732
+Time: 2024-07-31 15:52:00
+Close Price: 231.9700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.02 > -0.1, RSI=44.24 < 45, ATR_14=0.46 > 0.8*ATR_mean=0.35
+Current Balance (Before Buy): 9814.75
+Current Position (shares): 0.0000
+Bought 42.3104 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 111
+DataFrame Row Index: 66767
+Time: 2024-08-08 10:47:00
+Close Price: 198.5600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.43 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.3104
+Sold all shares for 8401.16 USD.
+Trade Profit: -1413.59, ROI: -14.40%
+New Balance: 8401.16
+----
+============================================================
+Transaction Index: 112
+DataFrame Row Index: 66801
+Time: 2024-08-08 11:21:00
+Close Price: 197.9100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=43.78 < 45, ATR_14=0.40 > 0.8*ATR_mean=0.34
+Current Balance (Before Buy): 8401.16
+Current Position (shares): 0.0000
+Bought 42.4494 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 113
+DataFrame Row Index: 66934
+Time: 2024-08-08 13:34:00
+Close Price: 199.8000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=70.08 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.4494
+Sold all shares for 8481.39 USD.
+Trade Profit: 80.23, ROI: 0.95%
+New Balance: 8481.39
+----
+============================================================
+Transaction Index: 114
+DataFrame Row Index: 66957
+Time: 2024-08-08 13:57:00
+Close Price: 199.2400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=41.99 < 45, ATR_14=0.24 > 0.8*ATR_mean=0.20
+Current Balance (Before Buy): 8481.39
+Current Position (shares): 0.0000
+Bought 42.5687 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 115
+DataFrame Row Index: 67186
+Time: 2024-08-09 11:16:00
+Close Price: 199.0500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.09 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5687
+Sold all shares for 8473.30 USD.
+Trade Profit: -8.09, ROI: -0.10%
+New Balance: 8473.30
+----
+============================================================
+Transaction Index: 116
+DataFrame Row Index: 67211
+Time: 2024-08-09 11:41:00
+Close Price: 197.6200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=44.68 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.31
+Current Balance (Before Buy): 8473.30
+Current Position (shares): 0.0000
+Bought 42.8767 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 117
+DataFrame Row Index: 67328
+Time: 2024-08-09 13:38:00
+Close Price: 200.5700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=71.70 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.8767
+Sold all shares for 8599.79 USD.
+Trade Profit: 126.49, ROI: 1.49%
+New Balance: 8599.79
+----
+============================================================
+Transaction Index: 118
+DataFrame Row Index: 67347
+Time: 2024-08-09 13:57:00
+Close Price: 199.7900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=43.71 < 45, ATR_14=0.26 > 0.8*ATR_mean=0.21
+Current Balance (Before Buy): 8599.79
+Current Position (shares): 0.0000
+Bought 43.0441 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 119
+DataFrame Row Index: 67887
+Time: 2024-08-13 09:57:00
+Close Price: 203.1000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.10 < 0, RSI=70.14 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 43.0441
+Sold all shares for 8742.26 USD.
+Trade Profit: 142.48, ROI: 1.66%
+New Balance: 8742.26
+----
+============================================================
+Transaction Index: 120
+DataFrame Row Index: 67964
+Time: 2024-08-13 11:14:00
+Close Price: 205.0800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.29 < 45, ATR_14=0.34 > 0.8*ATR_mean=0.28
+Current Balance (Before Buy): 8742.26
+Current Position (shares): 0.0000
+Bought 42.6285 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 121
+DataFrame Row Index: 68656
+Time: 2024-08-15 09:46:00
+Close Price: 211.0000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=81.36 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.6285
+Sold all shares for 8994.62 USD.
+Trade Profit: 252.36, ROI: 2.89%
+New Balance: 8994.62
+----
+============================================================
+Transaction Index: 122
+DataFrame Row Index: 68740
+Time: 2024-08-15 11:10:00
+Close Price: 214.4600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=44.58 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 8994.62
+Current Position (shares): 0.0000
+Bought 41.9408 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 123
+DataFrame Row Index: 71010
+Time: 2024-08-23 10:00:00
+Close Price: 218.3800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=72.59 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.9408
+Sold all shares for 9159.03 USD.
+Trade Profit: 164.41, ROI: 1.83%
+New Balance: 9159.03
+----
+============================================================
+Transaction Index: 124
+DataFrame Row Index: 71068
+Time: 2024-08-23 10:58:00
+Close Price: 217.6400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=38.27 < 45, ATR_14=0.66 > 0.8*ATR_mean=0.54
+Current Balance (Before Buy): 9159.03
+Current Position (shares): 0.0000
+Bought 42.0834 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 125
+DataFrame Row Index: 72365
+Time: 2024-08-28 13:05:00
+Close Price: 206.8600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.04 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0834
+Sold all shares for 8705.37 USD.
+Trade Profit: -453.66, ROI: -4.95%
+New Balance: 8705.37
+----
+============================================================
+Transaction Index: 126
+DataFrame Row Index: 72382
+Time: 2024-08-28 13:22:00
+Close Price: 205.9800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=38.46 < 45, ATR_14=0.21 > 0.8*ATR_mean=0.18
+Current Balance (Before Buy): 8705.37
+Current Position (shares): 0.0000
+Bought 42.2632 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 127
+DataFrame Row Index: 72559
+Time: 2024-08-29 09:49:00
+Close Price: 214.3200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=74.25 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2632
+Sold all shares for 9057.85 USD.
+Trade Profit: 352.48, ROI: 4.05%
+New Balance: 9057.85
+----
+============================================================
+Transaction Index: 128
+DataFrame Row Index: 72600
+Time: 2024-08-29 10:30:00
+Close Price: 211.0800
+Signal: BUY
+Reason: Buy: MACD_hist=0.06 > -0.1, RSI=44.31 < 45, ATR_14=0.64 > 0.8*ATR_mean=0.55
+Current Balance (Before Buy): 9057.85
+Current Position (shares): 0.0000
+Bought 42.9119 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 129
+DataFrame Row Index: 73738
+Time: 2024-09-04 09:58:00
+Close Price: 217.5200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=73.95 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.9119
+Sold all shares for 9334.20 USD.
+Trade Profit: 276.35, ROI: 3.05%
+New Balance: 9334.20
+----
+============================================================
+Transaction Index: 130
+DataFrame Row Index: 73828
+Time: 2024-09-04 11:28:00
+Close Price: 219.9800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=44.17 < 45, ATR_14=0.49 > 0.8*ATR_mean=0.38
+Current Balance (Before Buy): 9334.20
+Current Position (shares): 0.0000
+Bought 42.4320 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 131
+DataFrame Row Index: 73903
+Time: 2024-09-04 12:43:00
+Close Price: 221.6900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=73.75 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.4320
+Sold all shares for 9406.76 USD.
+Trade Profit: 72.56, ROI: 0.78%
+New Balance: 9406.76
+----
+============================================================
+Transaction Index: 132
+DataFrame Row Index: 73934
+Time: 2024-09-04 13:14:00
+Close Price: 221.4700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=44.79 < 45, ATR_14=0.29 > 0.8*ATR_mean=0.25
+Current Balance (Before Buy): 9406.76
+Current Position (shares): 0.0000
+Bought 42.4742 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 133
+DataFrame Row Index: 74120
+Time: 2024-09-05 09:50:00
+Close Price: 230.0300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=80.56 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.4742
+Sold all shares for 9770.34 USD.
+Trade Profit: 363.58, ROI: 3.87%
+New Balance: 9770.34
+----
+============================================================
+Transaction Index: 134
+DataFrame Row Index: 74186
+Time: 2024-09-05 10:56:00
+Close Price: 231.4700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.02 > -0.1, RSI=40.47 < 45, ATR_14=0.66 > 0.8*ATR_mean=0.51
+Current Balance (Before Buy): 9770.34
+Current Position (shares): 0.0000
+Bought 42.2100 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 135
+DataFrame Row Index: 74290
+Time: 2024-09-05 12:40:00
+Close Price: 230.2200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=71.01 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.2100
+Sold all shares for 9717.58 USD.
+Trade Profit: -52.76, ROI: -0.54%
+New Balance: 9717.58
+----
+============================================================
+Transaction Index: 136
+DataFrame Row Index: 74316
+Time: 2024-09-05 13:06:00
+Close Price: 228.4800
+Signal: BUY
+Reason: Buy: MACD_hist=0.02 > -0.1, RSI=39.06 < 45, ATR_14=0.43 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 9717.58
+Current Position (shares): 0.0000
+Bought 42.5314 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 137
+DataFrame Row Index: 78037
+Time: 2024-09-19 10:07:00
+Close Price: 238.5700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=71.79 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.5314
+Sold all shares for 10146.72 USD.
+Trade Profit: 429.14, ROI: 4.42%
+New Balance: 10146.72
+----
+============================================================
+Transaction Index: 138
+DataFrame Row Index: 78165
+Time: 2024-09-19 12:15:00
+Close Price: 242.1300
+Signal: BUY
+Reason: Buy: MACD_hist=-0.03 > -0.1, RSI=44.16 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 10146.72
+Current Position (shares): 0.0000
+Bought 41.9061 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 139
+DataFrame Row Index: 78738
+Time: 2024-09-20 15:18:00
+Close Price: 239.4000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.44 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.9061
+Sold all shares for 10032.31 USD.
+Trade Profit: -114.40, ROI: -1.13%
+New Balance: 10032.31
+----
+============================================================
+Transaction Index: 140
+DataFrame Row Index: 78777
+Time: 2024-09-20 15:57:00
+Close Price: 238.4300
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=36.63 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.26
+Current Balance (Before Buy): 10032.31
+Current Position (shares): 0.0000
+Bought 42.0766 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 141
+DataFrame Row Index: 78798
+Time: 2024-09-23 09:48:00
+Close Price: 247.5600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=72.69 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0766
+Sold all shares for 10416.47 USD.
+Trade Profit: 384.16, ROI: 3.83%
+New Balance: 10416.47
+----
+============================================================
+Transaction Index: 142
+DataFrame Row Index: 78849
+Time: 2024-09-23 10:39:00
+Close Price: 247.2000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=44.32 < 45, ATR_14=0.57 > 0.8*ATR_mean=0.50
+Current Balance (Before Buy): 10416.47
+Current Position (shares): 0.0000
+Bought 42.1378 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 143
+DataFrame Row Index: 81385
+Time: 2024-10-01 13:55:00
+Close Price: 256.3300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.69 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.1378
+Sold all shares for 10801.19 USD.
+Trade Profit: 384.72, ROI: 3.69%
+New Balance: 10801.19
+----
+============================================================
+Transaction Index: 144
+DataFrame Row Index: 81442
+Time: 2024-10-01 14:52:00
+Close Price: 257.8900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=42.99 < 45, ATR_14=0.44 > 0.8*ATR_mean=0.37
+Current Balance (Before Buy): 10801.19
+Current Position (shares): 0.0000
+Bought 41.8829 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 145
+DataFrame Row Index: 81630
+Time: 2024-10-02 11:30:00
+Close Price: 249.0300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=70.89 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8829
+Sold all shares for 10430.11 USD.
+Trade Profit: -371.08, ROI: -3.44%
+New Balance: 10430.11
+----
+============================================================
+Transaction Index: 146
+DataFrame Row Index: 81689
+Time: 2024-10-02 12:29:00
+Close Price: 249.3400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.02 > -0.1, RSI=43.67 < 45, ATR_14=0.38 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 10430.11
+Current Position (shares): 0.0000
+Bought 41.8309 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 147
+DataFrame Row Index: 82306
+Time: 2024-10-04 09:46:00
+Close Price: 249.3500
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=75.69 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8309
+Sold all shares for 10430.53 USD.
+Trade Profit: 0.42, ROI: 0.00%
+New Balance: 10430.53
+----
+============================================================
+Transaction Index: 148
+DataFrame Row Index: 82402
+Time: 2024-10-04 11:22:00
+Close Price: 249.4900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.47 < 45, ATR_14=0.54 > 0.8*ATR_mean=0.40
+Current Balance (Before Buy): 10430.53
+Current Position (shares): 0.0000
+Bought 41.8074 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 149
+DataFrame Row Index: 83219
+Time: 2024-10-08 11:59:00
+Close Price: 245.4800
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=73.77 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8074
+Sold all shares for 10262.88 USD.
+Trade Profit: -167.65, ROI: -1.61%
+New Balance: 10262.88
+----
+============================================================
+Transaction Index: 150
+DataFrame Row Index: 83233
+Time: 2024-10-08 12:13:00
+Close Price: 244.5200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=44.68 < 45, ATR_14=0.27 > 0.8*ATR_mean=0.23
+Current Balance (Before Buy): 10262.88
+Current Position (shares): 0.0000
+Bought 41.9715 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 151
+DataFrame Row Index: 84016
+Time: 2024-10-10 12:16:00
+Close Price: 241.9200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=73.71 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.9715
+Sold all shares for 10153.75 USD.
+Trade Profit: -109.13, ROI: -1.06%
+New Balance: 10153.75
+----
+============================================================
+Transaction Index: 152
+DataFrame Row Index: 84047
+Time: 2024-10-10 12:47:00
+Close Price: 240.8000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.04 > -0.1, RSI=42.33 < 45, ATR_14=0.39 > 0.8*ATR_mean=0.29
+Current Balance (Before Buy): 10153.75
+Current Position (shares): 0.0000
+Bought 42.1667 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 153
+DataFrame Row Index: 84714
+Time: 2024-10-14 10:54:00
+Close Price: 219.9000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=72.38 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.1667
+Sold all shares for 9272.47 USD.
+Trade Profit: -881.29, ROI: -8.68%
+New Balance: 9272.47
+----
+============================================================
+Transaction Index: 154
+DataFrame Row Index: 84737
+Time: 2024-10-14 11:17:00
+Close Price: 218.8400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.60 < 45, ATR_14=0.40 > 0.8*ATR_mean=0.33
+Current Balance (Before Buy): 9272.47
+Current Position (shares): 0.0000
+Bought 42.3710 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 155
+DataFrame Row Index: 87764
+Time: 2024-10-24 09:44:00
+Close Price: 249.1600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=88.60 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.3710
+Sold all shares for 10557.16 USD.
+Trade Profit: 1284.69, ROI: 13.85%
+New Balance: 10557.16
+----
+============================================================
+Transaction Index: 156
+DataFrame Row Index: 87906
+Time: 2024-10-24 12:06:00
+Close Price: 253.4100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=44.14 < 45, ATR_14=0.42 > 0.8*ATR_mean=0.34
+Current Balance (Before Buy): 10557.16
+Current Position (shares): 0.0000
+Bought 41.6604 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 157
+DataFrame Row Index: 87955
+Time: 2024-10-24 12:55:00
+Close Price: 256.3300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.66 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.6604
+Sold all shares for 10678.80 USD.
+Trade Profit: 121.65, ROI: 1.15%
+New Balance: 10678.80
+----
+============================================================
+Transaction Index: 158
+DataFrame Row Index: 87995
+Time: 2024-10-24 13:35:00
+Close Price: 256.4700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=41.87 < 45, ATR_14=0.37 > 0.8*ATR_mean=0.29
+Current Balance (Before Buy): 10678.80
+Current Position (shares): 0.0000
+Bought 41.6376 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 159
+DataFrame Row Index: 90887
+Time: 2024-11-05 09:47:00
+Close Price: 251.8000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.07 < 0, RSI=72.39 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.6376
+Sold all shares for 10484.36 USD.
+Trade Profit: -194.45, ROI: -1.82%
+New Balance: 10484.36
+----
+============================================================
+Transaction Index: 160
+DataFrame Row Index: 90933
+Time: 2024-11-05 10:33:00
+Close Price: 250.7400
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=43.13 < 45, ATR_14=0.59 > 0.8*ATR_mean=0.52
+Current Balance (Before Buy): 10484.36
+Current Position (shares): 0.0000
+Bought 41.8137 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 161
+DataFrame Row Index: 91274
+Time: 2024-11-06 09:44:00
+Close Price: 286.8700
+Signal: SELL
+Reason: Sell: MACD_hist=-0.27 < 0, RSI=80.11 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8137
+Sold all shares for 11995.08 USD.
+Trade Profit: 1510.73, ROI: 14.41%
+New Balance: 11995.08
+----
+============================================================
+Transaction Index: 162
+DataFrame Row Index: 91446
+Time: 2024-11-06 12:36:00
+Close Price: 286.3800
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.44 < 45, ATR_14=0.48 > 0.8*ATR_mean=0.42
+Current Balance (Before Buy): 11995.08
+Current Position (shares): 0.0000
+Bought 41.8852 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 163
+DataFrame Row Index: 91696
+Time: 2024-11-07 10:16:00
+Close Price: 293.9000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=71.35 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.8852
+Sold all shares for 12310.06 USD.
+Trade Profit: 314.98, ROI: 2.63%
+New Balance: 12310.06
+----
+============================================================
+Transaction Index: 164
+DataFrame Row Index: 91811
+Time: 2024-11-07 12:11:00
+Close Price: 297.9700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.04 > -0.1, RSI=44.88 < 45, ATR_14=0.50 > 0.8*ATR_mean=0.41
+Current Balance (Before Buy): 12310.06
+Current Position (shares): 0.0000
+Bought 41.3131 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 165
+DataFrame Row Index: 92067
+Time: 2024-11-08 09:57:00
+Close Price: 306.9200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.06 < 0, RSI=70.76 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.3131
+Sold all shares for 12679.81 USD.
+Trade Profit: 369.75, ROI: 3.00%
+New Balance: 12679.81
+----
+============================================================
+Transaction Index: 166
+DataFrame Row Index: 92211
+Time: 2024-11-08 12:21:00
+Close Price: 316.5600
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=43.83 < 45, ATR_14=0.68 > 0.8*ATR_mean=0.59
+Current Balance (Before Buy): 12679.81
+Current Position (shares): 0.0000
+Bought 40.0550 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 167
+DataFrame Row Index: 94395
+Time: 2024-11-18 09:45:00
+Close Price: 342.9600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.07 < 0, RSI=76.32 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.0550
+Sold all shares for 13737.26 USD.
+Trade Profit: 1057.45, ROI: 8.34%
+New Balance: 13737.26
+----
+============================================================
+Transaction Index: 168
+DataFrame Row Index: 94481
+Time: 2024-11-18 11:11:00
+Close Price: 345.3100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=43.36 < 45, ATR_14=0.85 > 0.8*ATR_mean=0.73
+Current Balance (Before Buy): 13737.26
+Current Position (shares): 0.0000
+Bought 39.7824 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 169
+DataFrame Row Index: 96036
+Time: 2024-11-22 11:06:00
+Close Price: 356.4400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.07 < 0, RSI=70.58 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 39.7824
+Sold all shares for 14180.04 USD.
+Trade Profit: 442.78, ROI: 3.22%
+New Balance: 14180.04
+----
+============================================================
+Transaction Index: 170
+DataFrame Row Index: 96074
+Time: 2024-11-22 11:44:00
+Close Price: 352.3200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=43.11 < 45, ATR_14=1.05 > 0.8*ATR_mean=0.89
+Current Balance (Before Buy): 14180.04
+Current Position (shares): 0.0000
+Bought 40.2476 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 171
+DataFrame Row Index: 97521
+Time: 2024-11-29 09:51:00
+Close Price: 339.0900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.09 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.2476
+Sold all shares for 13647.57 USD.
+Trade Profit: -532.48, ROI: -3.76%
+New Balance: 13647.57
+----
+============================================================
+Transaction Index: 172
+DataFrame Row Index: 97583
+Time: 2024-11-29 10:53:00
+Close Price: 339.4200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.04 > -0.1, RSI=44.05 < 45, ATR_14=0.58 > 0.8*ATR_mean=0.46
+Current Balance (Before Buy): 13647.57
+Current Position (shares): 0.0000
+Bought 40.2085 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 173
+DataFrame Row Index: 97720
+Time: 2024-11-29 13:10:00
+Close Price: 346.0300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=75.66 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.2085
+Sold all shares for 13913.35 USD.
+Trade Profit: 265.78, ROI: 1.95%
+New Balance: 13913.35
+----
+============================================================
+Transaction Index: 174
+DataFrame Row Index: 97777
+Time: 2024-11-29 14:07:00
+Close Price: 345.0700
+Signal: BUY
+Reason: Buy: MACD_hist=-0.01 > -0.1, RSI=42.94 < 45, ATR_14=0.29 > 0.8*ATR_mean=0.14
+Current Balance (Before Buy): 13913.35
+Current Position (shares): 0.0000
+Bought 40.3204 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 175
+DataFrame Row Index: 99084
+Time: 2024-12-05 09:54:00
+Close Price: 374.0900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.24 < 0, RSI=74.29 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.3204
+Sold all shares for 15083.44 USD.
+Trade Profit: 1170.10, ROI: 8.41%
+New Balance: 15083.44
+----
+============================================================
+Transaction Index: 176
+DataFrame Row Index: 99145
+Time: 2024-12-05 10:55:00
+Close Price: 370.2000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=39.93 < 45, ATR_14=0.95 > 0.8*ATR_mean=0.80
+Current Balance (Before Buy): 15083.44
+Current Position (shares): 0.0000
+Bought 40.7440 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 177
+DataFrame Row Index: 99800
+Time: 2024-12-06 15:20:00
+Close Price: 382.0400
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=70.59 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.7440
+Sold all shares for 15565.85 USD.
+Trade Profit: 482.41, ROI: 3.20%
+New Balance: 15565.85
+----
+============================================================
+Transaction Index: 178
+DataFrame Row Index: 99910
+Time: 2024-12-09 10:40:00
+Close Price: 385.4500
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=37.60 < 45, ATR_14=1.50 > 0.8*ATR_mean=1.10
+Current Balance (Before Buy): 15565.85
+Current Position (shares): 0.0000
+Bought 40.3836 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 179
+DataFrame Row Index: 100094
+Time: 2024-12-09 13:44:00
+Close Price: 387.4100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=70.62 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.3836
+Sold all shares for 15645.00 USD.
+Trade Profit: 79.15, ROI: 0.51%
+New Balance: 15645.00
+----
+============================================================
+Transaction Index: 180
+DataFrame Row Index: 100125
+Time: 2024-12-09 14:15:00
+Close Price: 386.1000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.05 > -0.1, RSI=43.53 < 45, ATR_14=0.54 > 0.8*ATR_mean=0.48
+Current Balance (Before Buy): 15645.00
+Current Position (shares): 0.0000
+Bought 40.5206 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 181
+DataFrame Row Index: 100247
+Time: 2024-12-10 09:47:00
+Close Price: 400.6900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=79.92 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.5206
+Sold all shares for 16236.20 USD.
+Trade Profit: 591.20, ROI: 3.78%
+New Balance: 16236.20
+----
+============================================================
+Transaction Index: 182
+DataFrame Row Index: 100327
+Time: 2024-12-10 11:07:00
+Close Price: 401.5000
+Signal: BUY
+Reason: Buy: MACD_hist=0.10 > -0.1, RSI=42.60 < 45, ATR_14=1.08 > 0.8*ATR_mean=0.83
+Current Balance (Before Buy): 16236.20
+Current Position (shares): 0.0000
+Bought 40.4389 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 183
+DataFrame Row Index: 102710
+Time: 2024-12-18 11:50:00
+Close Price: 487.5300
+Signal: SELL
+Reason: Sell: MACD_hist=-0.01 < 0, RSI=71.93 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.4389
+Sold all shares for 19715.15 USD.
+Trade Profit: 3478.95, ROI: 21.43%
+New Balance: 19715.15
+----
+============================================================
+Transaction Index: 184
+DataFrame Row Index: 102744
+Time: 2024-12-18 12:24:00
+Close Price: 479.5200
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=36.76 < 45, ATR_14=1.12 > 0.8*ATR_mean=0.95
+Current Balance (Before Buy): 19715.15
+Current Position (shares): 0.0000
+Bought 41.1144 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 185
+DataFrame Row Index: 103845
+Time: 2024-12-23 11:15:00
+Close Price: 432.8100
+Signal: SELL
+Reason: Sell: MACD_hist=-0.04 < 0, RSI=70.32 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.1144
+Sold all shares for 17794.70 USD.
+Trade Profit: -1920.45, ROI: -9.74%
+New Balance: 17794.70
+----
+============================================================
+Transaction Index: 186
+DataFrame Row Index: 103902
+Time: 2024-12-23 12:12:00
+Close Price: 429.3300
+Signal: BUY
+Reason: Buy: MACD_hist=-0.06 > -0.1, RSI=41.44 < 45, ATR_14=0.93 > 0.8*ATR_mean=0.82
+Current Balance (Before Buy): 17794.70
+Current Position (shares): 0.0000
+Bought 41.4476 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 187
+DataFrame Row Index: 104148
+Time: 2024-12-24 09:48:00
+Close Price: 446.8000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.13 < 0, RSI=73.93 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.4476
+Sold all shares for 18518.79 USD.
+Trade Profit: 724.09, ROI: 4.07%
+New Balance: 18518.79
+----
+============================================================
+Transaction Index: 188
+DataFrame Row Index: 104273
+Time: 2024-12-24 11:53:00
+Close Price: 451.7500
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.35 < 45, ATR_14=0.65 > 0.8*ATR_mean=0.56
+Current Balance (Before Buy): 18518.79
+Current Position (shares): 0.0000
+Bought 40.9935 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 189
+DataFrame Row Index: 104350
+Time: 2024-12-24 13:10:00
+Close Price: 464.0900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.02 < 0, RSI=76.49 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.9935
+Sold all shares for 19024.65 USD.
+Trade Profit: 505.86, ROI: 2.73%
+New Balance: 19024.65
+----
+============================================================
+Transaction Index: 190
+DataFrame Row Index: 104451
+Time: 2024-12-24 14:51:00
+Close Price: 464.8900
+Signal: BUY
+Reason: Buy: MACD_hist=-0.08 > -0.1, RSI=42.68 < 45, ATR_14=0.37 > 0.8*ATR_mean=0.37
+Current Balance (Before Buy): 19024.65
+Current Position (shares): 0.0000
+Bought 40.9229 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 191
+DataFrame Row Index: 107483
+Time: 2025-01-07 13:23:00
+Close Price: 398.2200
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=71.28 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 40.9229
+Sold all shares for 16296.32 USD.
+Trade Profit: -2728.33, ROI: -14.34%
+New Balance: 16296.32
+----
+============================================================
+Transaction Index: 192
+DataFrame Row Index: 107512
+Time: 2025-01-07 13:52:00
+Close Price: 396.0000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=36.86 < 45, ATR_14=0.53 > 0.8*ATR_mean=0.43
+Current Balance (Before Buy): 16296.32
+Current Position (shares): 0.0000
+Bought 41.1523 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 193
+DataFrame Row Index: 108600
+Time: 2025-01-13 12:30:00
+Close Price: 395.3900
+Signal: SELL
+Reason: Sell: MACD_hist=-0.03 < 0, RSI=70.35 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.1523
+Sold all shares for 16271.22 USD.
+Trade Profit: -25.10, ROI: -0.15%
+New Balance: 16271.22
+----
+============================================================
+Transaction Index: 194
+DataFrame Row Index: 108639
+Time: 2025-01-13 13:09:00
+Close Price: 395.1000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.09 > -0.1, RSI=44.70 < 45, ATR_14=0.70 > 0.8*ATR_mean=0.61
+Current Balance (Before Buy): 16271.22
+Current Position (shares): 0.0000
+Bought 41.1825 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 195
+DataFrame Row Index: 108825
+Time: 2025-01-14 09:45:00
+Close Price: 419.3000
+Signal: SELL
+Reason: Sell: MACD_hist=-0.25 < 0, RSI=75.00 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 41.1825
+Sold all shares for 17267.83 USD.
+Trade Profit: 996.62, ROI: 6.13%
+New Balance: 17267.83
+----
+============================================================
+Transaction Index: 196
+DataFrame Row Index: 108883
+Time: 2025-01-14 10:43:00
+Close Price: 410.6000
+Signal: BUY
+Reason: Buy: MACD_hist=-0.01 > -0.1, RSI=43.72 < 45, ATR_14=1.54 > 0.8*ATR_mean=1.24
+Current Balance (Before Buy): 17267.83
+Current Position (shares): 0.0000
+Bought 42.0551 shares. New Balance = 0.00
+----
+============================================================
+Transaction Index: 197
+DataFrame Row Index: 109230
+Time: 2025-01-15 10:00:00
+Close Price: 416.9600
+Signal: SELL
+Reason: Sell: MACD_hist=-0.05 < 0, RSI=72.12 > 70
+Current Balance (Before Sell): 0.00
+Current Position (shares): 42.0551
+Sold all shares for 17535.31 USD.
+Trade Profit: 267.47, ROI: 1.55%
+New Balance: 17535.31
+----
+============================================================
+Transaction Index: 198
+DataFrame Row Index: 109288
+Time: 2025-01-15 10:58:00
+Close Price: 414.1100
+Signal: BUY
+Reason: Buy: MACD_hist=-0.07 > -0.1, RSI=36.67 < 45, ATR_14=1.01 > 0.8*ATR_mean=0.79
+Current Balance (Before Buy): 17535.31
+Current Position (shares): 0.0000
+Bought 42.3446 shares. New Balance = 0.00
+----
+
+Portfolio Analysis Summary:
+
+Trading Start Date: 2023-12-01
+Trading End Date: 2025-01-24
+Total Trading Days: 287 days
+Total Duration: 14 months
+Final Portfolio Value: $17214.76
+Total Profit: $7214.76
+Total ROI: 72.15%
+Average Monthly ROI: 5.15%
+Average Yearly ROI: 61.84%
+
+================================
+Monthly Performance:
+
+         Monthly_End_Value  Monthly_Income  Monthly_Growth_Rate
+Month                                                          
+2023-12       10295.922075        0.000000             0.000000
+2024-01        7824.691632    -2471.230443            -0.240020
+2024-02        8523.416295      698.724663             0.089297
+2024-03        7417.413942    -1106.002354            -0.129760
+2024-04        7362.966796      -54.447145            -0.007340
+2024-05        7486.633316      123.666520             0.016796
+2024-06        8731.535183     1244.901868             0.166283
+2024-07        9820.250038     1088.714855             0.124688
+2024-08        9190.873837     -629.376201            -0.064090
+2024-09       11023.257063     1832.383226             0.199370
+2024-10       10400.248499     -623.008564            -0.056518
+2024-11       13910.522889     3510.274390             0.337518
+2024-12       16518.122662     2607.599773             0.187455
+2025-01       17214.757095      696.634434             0.042174
